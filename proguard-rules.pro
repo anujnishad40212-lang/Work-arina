@@ -1,0 +1,2 @@
+-keep class com.taskflow.app.database.entity.** { *; }
+-dontwarn org.xmlpull.v1.**
